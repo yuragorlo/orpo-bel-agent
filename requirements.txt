@@ -1,0 +1,11 @@
+crewai[tools]==0.51.1
+crewai-tools==0.8.3
+langchain==0.2.15
+langchain-community==0.2.14
+langchain-groq==0.1.9
+langchain-openai==0.1.23
+load-dotenv==0.1.0
+pandas==2.2.2
+tiktoken==0.7.0
+semantic-router==0.0.62
+PyPDF2==3.0.1
